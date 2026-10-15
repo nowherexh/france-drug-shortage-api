@@ -1,0 +1,12 @@
+{
+  "statusLabel": "Rupture de stock",
+  "drugName": "LARIAM 250 mg, comprimé sécable",
+  "holders": [
+    "CHEPLAPHARM ARZNEIMITTEL (ALLEMAGNE)"
+  ],
+  "startDate": "2026-06-25",
+  "updatedAt": "2026-10-08",
+  "availableAgainDate": null,
+  "majorTherapeuticInterest": true,
+  "ansmUrl": "https://ansm.sante.fr/disponibilites-des-produits-de-sante/medicaments/lariam-250-mg-comprime-secable-mefloquine"
+}
